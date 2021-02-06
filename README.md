@@ -1,2 +1,2 @@
 # Tkinter-Projects
-A repository containing various Tkinter apps.
+A repository containing my Tkinter apps.
